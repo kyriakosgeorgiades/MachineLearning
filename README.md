@@ -1,1 +1,1 @@
-# 6006CEM_2021s1_8464860_KG
+# Machine Learning project classification with logistic regression and KNN.
